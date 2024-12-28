@@ -98,8 +98,7 @@ src/
 │   ├── java/com/genpact/web/       # Java source code
 │   ├── resources/
 │   │   ├── application.properties  # Configuration file
-│   │   ├── templates/              # JSP files
-│   │   └── static/                 # Static assets (CSS, JS, images)
+│   ├── webapp/WEB-INF/jsp          # JSP files
 └── test/                           # Test cases
 ```
 
